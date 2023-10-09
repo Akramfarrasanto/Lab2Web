@@ -16,18 +16,21 @@
 <img width="960" alt="Gambar6" src="https://github.com/Akramfarrasanto/Lab2Web/assets/115552876/eb1f33c5-1c9d-4a3a-bbcc-603903ad71d4">
 
 ## 4. Membuat CSS Eksternal
-<img width="960" alt="Gambar7" src="https://github.com/Akramfarrasanto/Lab2Web/assets/115552876/bcd92396-a980-49c9-afb4-4b15640f339e">
+<img width="960" alt="Gambar9" src="https://github.com/Akramfarrasanto/Lab2Web/assets/115552876/21987c47-d9b5-4829-a680-ea1b66ce8539">
 
-<img width="960" alt="Gambar8" src="https://github.com/Akramfarrasanto/Lab2Web/assets/115552876/9a5fc933-f227-4725-a8b1-996f7dcf18aa">
+<img width="960" alt="Gambar membuat file eksternal hasil" src="https://github.com/Akramfarrasanto/Lab2Web/assets/115552876/3d356d2d-6f85-489e-ab59-b67cfcc7ef83">
 
 ## 5.Menambahkan CSS Selector
 <img width="960" alt="Gambar9" src="https://github.com/Akramfarrasanto/Lab2Web/assets/115552876/9e119a1a-b89c-4e88-8ea3-b6b6e7953022">
 
-<img width="960" alt="Gambar10" src="https://github.com/Akramfarrasanto/Lab2Web/assets/115552876/f211d635-69ff-4eed-ad69-0cb8f9f65293">
+<img width="960" alt="Gambar8" src="https://github.com/Akramfarrasanto/Lab2Web/assets/115552876/382b167b-ec22-445b-8f7c-1b737999a945">
+
 
 # Pertanyaan dan Tugas
 1. Lakukan eksperimen dengan mengubah dan menambah properti dan nilai pada kode CSS dengan mengacu pada CSS Cheat Sheet yang diberikan pada file terpisah dari modul ini.
+<img width="960" alt="Gambar9" src="https://github.com/Akramfarrasanto/Lab2Web/assets/115552876/90c1d35a-b362-4f22-ba53-a196307ff60c">
 
+<img width="960" alt="Gambar10" src="https://github.com/Akramfarrasanto/Lab2Web/assets/115552876/a7c51276-bf89-4d16-bbc8-aa2c882497fa">
 
 2. Apa perbedaan pendeklarasian CSS elemen h1 {...} dengan #intro h1 {...}? berikan penjelasannya!
   - Kalau h1 menggunakan internal dan inline pada penggunaan style nya sedangkan intro menggunakan eksternal css style nya
